@@ -26,7 +26,7 @@ const MobileNavigation = () => {
         side="left"
         className="background-light900_dark200 border-none p-4"
       >
-        <SheetTitle className="hidden">Navigation</SheetTitle>
+        <SheetTitle>Navigation</SheetTitle>
         <Link href="/" className="flex items-center gap-1">
           <Image
             src="/images/site-logo.svg"

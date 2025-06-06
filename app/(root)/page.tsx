@@ -8,10 +8,10 @@ const Home = async () => {
 
   return (
     <>
-      {/*      <h1 className="text-3xl text-violet-700 font-black">
+      <h1 className="text-3xl text-violet-700 font-black">
         Welcome to Next.js 👋
-      </h1> */}
-      <form
+      </h1>
+      {/*     <form
         className="px-10 pt-[100px]"
         action={async () => {
           "use server";
@@ -20,7 +20,7 @@ const Home = async () => {
         }}
       >
         <Button type="submit">Logout</Button>
-      </form>
+      </form> */}
     </>
   );
 };
